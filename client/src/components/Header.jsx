@@ -43,7 +43,7 @@ function Header() {
   Turn text to 
   <span 
   
-  className="text-blue-600">image</span>, in seconds
+  className="text-blue-600"> image</span>, in seconds
 </motion.h1>
    <motion.p 
     initial={{opacity:0,y:20}}
